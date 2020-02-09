@@ -1,0 +1,217 @@
+{ 
+  "hospitals":[ 
+    { 
+      "id":1,
+      "hospital_id":"4Yn",
+      "name":"Avon Products, Inc."
+    },
+    { 
+      "id":2,
+      "hospital_id":"8Jt",
+      "name":"Physicians Total Care, Inc."
+    },
+    { 
+      "id":3,
+      "hospital_id":"8Oy",
+      "name":"Ventura Corporation LTD"
+    },
+    { 
+      "id":4,
+      "hospital_id":"0Zc",
+      "name":"Nelco Laboratories, Inc."
+    },
+    { 
+      "id":5,
+      "hospital_id":"0Tf",
+      "name":"STAT Rx USA LLC"
+    },
+    { 
+      "id":6,
+      "hospital_id":"1Bc",
+      "name":"Sandoz Inc"
+    },
+    { 
+      "id":7,
+      "hospital_id":"8Mx",
+      "name":"Cardinal Health"
+    },
+    { 
+      "id":8,
+      "hospital_id":"4Wl",
+      "name":"Bryant Ranch Prepack"
+    },
+    { 
+      "id":9,
+      "hospital_id":"4Hg",
+      "name":"REMEDYREPACK INC."
+    },
+    { 
+      "id":10,
+      "hospital_id":"9Hd",
+      "name":"STAT Rx USA LLC"
+    }
+  ],
+  "doctors":[ 
+    { 
+      "id":"8",
+      "name":"Kaiser Nollet"
+    },
+    { 
+      "id":"0",
+      "name":"Glenda Sharpless"
+    },
+    { 
+      "id":"5",
+      "name":"Barbi Niblock"
+    },
+    { 
+      "id":"4",
+      "name":"Inesita Duffy"
+    },
+    { 
+      "id":"1",
+      "name":"Franny Kettlestringe"
+    },
+    { 
+      "id":"4",
+      "name":"Sibyl Perrelli"
+    },
+    { 
+      "id":"5",
+      "name":"Victoir Desaur"
+    },
+    { 
+      "id":"0",
+      "name":"Granger Pherps"
+    },
+    { 
+      "id":"2",
+      "name":"Tory McGrill"
+    },
+    { 
+      "id":"2",
+      "name":"Jeralee Giffkins"
+    }
+  ],
+  "care_pathway":[ 
+    { 
+      "id":"5",
+      "display_name":"Army & Air Force Exchange Service",
+      "slug":"exchange select naproxen sodium"
+    },
+    { 
+      "id":"4",
+      "display_name":"AMI Cosmetic Co.,Ltd.",
+      "slug":"Perfect Calming Serum"
+    },
+    { 
+      "id":"4",
+      "display_name":"American Health Packaging",
+      "slug":"PANTOPRAZOLE SODIUM"
+    },
+    { 
+      "id":"1",
+      "display_name":"Advanced Beauty Systems, Inc.",
+      "slug":"Bodycology"
+    },
+    { 
+      "id":"5",
+      "display_name":"PSS WORLD MEDICAL, INC.",
+      "slug":"Select Medical Products Triple Antibiotic"
+    },
+    { 
+      "id":"3",
+      "display_name":"REMEDYREPACK INC.",
+      "slug":"Carvedilol"
+    },
+    { 
+      "id":"4",
+      "display_name":"SHISEIDO AMERICA INC.",
+      "slug":"SHISEIDO PURENESS MATIFYING COMPACT OIL-FREE (REFILL)"
+    },
+    { 
+      "id":"8",
+      "display_name":"Alvogen, Inc.",
+      "slug":"Oxycodone hydrochloride"
+    },
+    { 
+      "id":"4",
+      "display_name":"Lancaster S.A.M.",
+      "slug":"Rimmel London"
+    },
+    { 
+      "id":"3",
+      "display_name":"West-Ward Pharmaceutical Corp",
+      "slug":"Topiramate"
+    }
+  ],
+  "products":[ 
+    { 
+      "device":[ 
+        { 
+          "id":"7",
+          "name":"Toyota",
+          "price":"$6.88"
+        },
+        { 
+          "id":"8",
+          "name":"BMW",
+          "price":"$1.74"
+        },
+        { 
+          "id":"8",
+          "name":"Oldsmobile",
+          "price":"$1.88"
+        }
+      ],
+      "subscription":[ 
+        { 
+          "id":"83",
+          "name":"Nuclear Power Engineer",
+          "weight":64
+        },
+        { 
+          "id":"56",
+          "name":"General Manager",
+          "weight":17
+        },
+        { 
+          "id":"92",
+          "name":"Structural Analysis Engineer",
+          "weight":26
+        }
+      ],
+      "consumables":[ 
+        { 
+          "id":"402",
+          "name":"Clonazepam",
+          "price":"$93.46"
+        },
+        { 
+          "id":"751",
+          "name":"Allergenic Extracts Alum Precipitated",
+          "price":"$93.30"
+        },
+        { 
+          "id":"919",
+          "name":"Benzocaine",
+          "price":"$76.04"
+        }
+      ]
+    }
+  ],
+  "patient": [
+    {
+      "salutation": "Mr.",
+      "first_name": "First",
+      "surname": "User",
+      "mobile": 1234567890,
+      "country_code": "+60",
+      "email": "first@user.com",
+      "hospitals": [5],
+      "doctors": [1],
+      "care_pathway": [3],
+      "products": [7, 83]
+    }
+  ]
+}
