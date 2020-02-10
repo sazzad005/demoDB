@@ -164,7 +164,9 @@
           "name":"Oldsmobile",
           "price":"$1.88"
         }
-      ],
+      ]
+    },
+    {
       "label": "Subscription",
       "list":[ 
         { 
@@ -182,7 +184,9 @@
           "name":"Structural Analysis Engineer",
           "weight":26
         }
-      ],
+      ]
+    },
+    {
       "label": "Consumables",
       "list":[ 
         { 
