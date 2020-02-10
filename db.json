@@ -147,7 +147,7 @@
   ],
   "products":[ 
     { 
-      "label": "device",
+      "label": "Device",
       "list":[ 
         { 
           "id":"7",
@@ -165,7 +165,7 @@
           "price":"$1.88"
         }
       ],
-      "label": "subscription",
+      "label": "Subscription",
       "list":[ 
         { 
           "id":"83",
@@ -183,7 +183,7 @@
           "weight":26
         }
       ],
-      "label": "consumables",
+      "label": "Consumables",
       "list":[ 
         { 
           "id":"402",
