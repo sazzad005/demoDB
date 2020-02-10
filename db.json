@@ -147,7 +147,8 @@
   ],
   "products":[ 
     { 
-      "device":[ 
+      "label": "device",
+      "list":[ 
         { 
           "id":"7",
           "name":"Toyota",
@@ -164,7 +165,8 @@
           "price":"$1.88"
         }
       ],
-      "subscription":[ 
+      "label": "subscription",
+      "list":[ 
         { 
           "id":"83",
           "name":"Nuclear Power Engineer",
@@ -181,7 +183,8 @@
           "weight":26
         }
       ],
-      "consumables":[ 
+      "label": "consumables",
+      "list":[ 
         { 
           "id":"402",
           "name":"Clonazepam",
